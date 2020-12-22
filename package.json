@@ -1,7 +1,7 @@
 {
   "name": "ayuz",
   "version": "1.0.1",
-  "description": "Ayuz is a package that help for AJAX request",
+  "description": "Ayuz is a package that help for faster AJAX request",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
