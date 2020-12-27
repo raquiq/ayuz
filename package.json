@@ -1,11 +1,24 @@
 {
   "name": "ayuz",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Ayuz is a package that help for faster AJAX request",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+  	"type": "git",
+  	"url": "git+https://github.com/raquiq/ayuz.git"
+  },
   "author": "raquiqdev",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+  	"url": "https://github.com/raquiq/ayuz/issues"
+  },
+  "homepage": "https://github.com/raquiq/ayuz#readme",
+  "keywords": [
+        "ayuz",
+        "ajax",
+        "http request"
+    ]
 }
